@@ -1,0 +1,6 @@
+*.csv
+*.mp3
+*.png
+*.wav
+weather/*
+.ipynb_checkpoints/*
