@@ -1,0 +1,36 @@
+{
+  "load_extensions": {
+    "ruler/main": false,
+    "execute_time/ExecuteTime": false,
+    "collapsible_headings/main": true,
+    "toggle_all_line_numbers/main": false,
+    "toc2/main": false,
+    "contrib_nbextensions_help_item/main": false,
+    "nbextensions_configurator/config_menu/main": true,
+    "codefolding/main": false,
+    "move_selected_cells/main": true,
+    "highlighter/highlighter": false,
+    "freeze/main": true
+  },
+  "CodeCell": {
+    "cm_config": {
+      "indentUnit": 2
+    }
+  },
+  "Cell": {
+    "cm_config": {
+      "lineNumbers": true
+    }
+  },
+  "toc2": {
+    "number_sections": false,
+    "skip_h1_title": false
+  },
+  "Notebook": {
+    "Header": true,
+    "Toolbar": true
+  },
+  "collapsible_headings": {
+    "use_toggle_controls": true
+  }
+}
